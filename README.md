@@ -1,0 +1,1 @@
+This is a Data Visualisation project, using Python and the library folium. JSON data was obtained at https://data.gov.au/dataset/ds-dga-91e70237-d9d1-4719-a82f-e71b811154c6/details. Airbnb data was obtained at http://insideairbnb.com/sydney/?neighbourhood=&filterEntireHomes=false&filterHighlyAvailable=false&filterRecentReviews=false&filterMultiListings=false.
